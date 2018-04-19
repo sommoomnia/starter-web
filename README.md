@@ -15,3 +15,8 @@ Sample website with plenty of files for demos
 é un semplice progetto web, il rilascio può avvenire su qualsiasi web server o in locale.
 
 ## How to contribute
+
+
+### Copyright
+
+2018 Git.Training.
