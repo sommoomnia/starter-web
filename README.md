@@ -12,4 +12,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+é un semplice progetto web, il rilascio può avvenire su qualsiasi web server o in locale.
+
 ## How to contribute
