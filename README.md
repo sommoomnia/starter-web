@@ -16,6 +16,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+fai il fork di questo repository e usalo per provare il pull con il branch
 
 ### Copyright
 
