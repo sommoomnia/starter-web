@@ -1,3 +1,4 @@
 provadanontracciare.txt
 *.log
 log/
+*.orig
