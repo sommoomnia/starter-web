@@ -21,4 +21,4 @@ fai il fork di questo repository e usalo per provare il pull con il branch
 
 ### Copyright
 
-2018 Git.Training.
+2018 Git.Training. tutti riservati
